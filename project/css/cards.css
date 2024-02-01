@@ -1,0 +1,22 @@
+.wrapper{
+    width: 900px;
+    height: 900px;
+}
+
+
+
+.carBig{
+    width: 400px;
+    height: 400px;
+    background-color: #355b2f;
+}
+.cardImg{
+    width: 400px;
+    height: 400px;
+    display: flex;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
